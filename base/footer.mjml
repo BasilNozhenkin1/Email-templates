@@ -1,0 +1,30 @@
+<mj-section background-color="#FAFCFD">
+  <mj-column padding-top="30px">
+    <mj-text font-family="Inter" font-style="normal" font-weight="bold" font-size="12px" line-height="15px" color="#094068" align="left"> 
+      Мы в социальных сетях 
+    </mj-text>
+    <mj-social font-size="15px" icon-size="15px" mode="horizontal" align="left">
+       <mj-social-element name="twitter" src="../base/twitter.png" background-color="white">
+            </mj-social-element>
+       <mj-social-element name="facebbok" src="../base/facebook.png" background-color="white">
+            </mj-social-element>
+       <mj-social-element name="instagram" src="../base/instagram.png" background-color="white">
+       </mj-social-element>
+    </mj-social>
+  </mj-column>
+  <mj-column>
+  </mj-column>
+  <mj-column padding-top="38px">
+    <mj-text font-family="Inter" align="right" font-style="normal" font-weight="bold" font-size="24px" line-height="29px" color="#094068">+7 (343) 800-80-80  </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section background-color="#FAFCFD">
+  <mj-column padding-top="40px">
+    <mj-text font-family="Inter" font-style="normal" font-weight="bold" font-size="12px" line-height="15px" color="#3E3E3E"> 
+      2020 © Все права защищены
+    </mj-text>
+    <mj-text font-family="Inter" font-style="normal" font-weight="bold" font-size="10px" line-height="12px" color="#3E3E3E" padding-top="15px">
+      Вы получили это письмо, потому что прошли регистрацию на портале «Скрининг рака легких». Если Вы не хотите более получать сообщения, <span style="text-decoration:underline">отпишитесь от рассылки</span>.
+    </mj-text>
+  </mj-column>
+</mj-section>

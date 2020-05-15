@@ -1,0 +1,32 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-section padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" />
+      <mj-column padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" /> 
+      <mj-text padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" font-family="Tahoma" font-style="normal" font-weight="normal" letter-spacing="0.2px"/>
+      <mj-social padding-top="0" padding-left="0" padding-bottom="0" padding-right="0"/>
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+        <mj-include path="../base/header.mjml" />
+    <mj-section padding-bottom="80px">
+      <mj-column>
+        <mj-text align="center" font-size="32px" line-height="39px" color="#094068">
+          Подтверждение личности
+        </mj-text>
+        <mj-text align="left" font-size="14px" line-height="17px" padding-top="40px" color="#3E3E3E">
+          Здравствуйте!
+       </mj-text>
+         <mj-text align="left" font-size="14px" line-height="17px" padding-top="24px" color="#3E3E3E">
+          Ваш код подтверждения <b>567890</b>. Пожалуйста, назовите его сотруднику регистратуры.
+        </mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-include path="../base/footer.mjml" />
+
+  </mj-body>
+
+</mjml>

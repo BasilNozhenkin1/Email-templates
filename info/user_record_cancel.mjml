@@ -1,0 +1,42 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-section padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" />
+      <mj-column padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" /> 
+      <mj-text padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" letter-spacing="0.2px"/>
+      <mj-social padding-top="0" padding-left="0" padding-bottom="0" padding-right="0"/>
+      <mj-button width="254px" height="44px" font-family="Inter" font-style="normal" font-weight="500" font-size="18px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+    <mj-include path="../base/header.mjml" />
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="32px" line-height="39px" color="#094068">
+          Запись отменена
+        </mj-text>
+        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" padding-top="40px">
+          Здравствуйте!
+       </mj-text>
+       <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" color="#3E3E3E" padding-top="24px">
+          Ваша запись на скрининг <b>09.04.2020 в 11:00</b> по адресу <b>г. Екатеринург, ул. Соболева, д. 29</b> отменена сотрудником.
+        </mj-text>
+              <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" color="#3E3E3E" padding-top="16px">
+          Если вы хотите записаться на другое время, нажмите на кнопку ниже.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="80px" padding-top="44px">
+      <mj-column>
+      <mj-button background-color="#FF4F4F">			
+        Записаться на скрининг
+      </mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-include path="../base/footer.mjml" />
+
+  </mj-body>
+
+</mjml>

@@ -1,0 +1,32 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-section padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" />
+      <mj-column padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" /> 
+      <mj-text padding-top="0" padding-left="0" padding-bottom="0" padding-right="0"/>
+      <mj-social padding-top="0" padding-left="0" padding-bottom="0" padding-right="0"/>
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+    <mj-include path="../base/header.mjml" />
+    <mj-section padding-bottom="80px">
+      <mj-column>
+        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" padding-top="32px">
+          Здравствуйте!
+        </mj-text>
+        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" padding-top="24px">
+           Благодарим за ваше обращение в нашу службу поддержки.
+         </mj-text>
+        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" padding-top="24px">
+           Добрый день. Я создал запись на прием, но в списке записей она не отобразилась. Не понимаю, запись в итоге создалась или нет.
+         </mj-text>
+      </mj-column>
+
+    </mj-section>
+
+    <mj-include path="../base/footer.mjml" />
+
+  </mj-body>
+
+</mjml>
