@@ -1,0 +1,14 @@
+<mj-section>
+  <mj-column padding-top="30px">
+    <mj-text font-family="Inter" font-style="normal" font-weight="bold" font-size="18px" line-height="22px" color="#005491"> Скрининг<br> рака легких </mj-text>
+  </mj-column>
+  <mj-column>
+  </mj-column>
+  <mj-column padding-top="46px">
+    <mj-text font-family="Inter" align="right" font-style="normal" font-weight="bold" text-decoration="underline" font-size="10px" line-height="12px" color="#005491">Открыть в браузере
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-hero>
+    <mj-image src="../base/adv.png" width="560px" height="259px"></mj-image>
+</mj-hero>

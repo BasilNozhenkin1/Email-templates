@@ -12,6 +12,8 @@
        </mj-social-element>
     </mj-social>
   </mj-column>
+  <mj-column>
+  </mj-column>
   <mj-column padding-top="38px">
     <mj-text align="right" font-size="24px" line-height="29px" color="#094068">+7 (343) 800-80-80  </mj-text>
   </mj-column>

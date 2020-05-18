@@ -1,0 +1,79 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-section padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" />
+      <mj-column padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" /> 
+      <mj-text padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" font-family="Tahoma" font-style="normal" font-weight="normal"/>
+      <mj-social padding-top="0" padding-left="0" padding-bottom="0" padding-right="0"/>
+      <mj-button width="260px" height="44px" font-family="Tahoma" font-style="normal" font-weight="500" font-size="18px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+    <mj-include path="../base/header.mjml" />
+    <mj-section>
+      
+      <mj-column>
+        <mj-text align="center" font-size="32px" line-height="39px" color="#094068">
+          Результаты скрининга
+        </mj-text>
+           <mj-text align="left" font-size="14px" line-height="17px" padding-top="40px">
+          Здравствуйте!
+       </mj-text>
+       <mj-text align="left"  font-size="14px" line-height="17px" color="#3E3E3E" padding-top="24px">
+         Результаты скрининга готовы:
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FAFCFD">
+      <mj-column padding-top="16px">
+         <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" padding-top="16px"  padding-left="24px" padding-right="24px">
+          <span style="color:#B5C6D2" >Дата исследования</span>&nbsp;&nbsp;&nbsp;<span style="font-size:16px; line-height:22px;">09.04.2020 </span>
+        </mj-text>
+        <mj-text align="left" font-size="14px" line-height="17px" padding-top="8px" padding-left="24px" padding-right="24px">
+          <span style="color:#B5C6D2" >Время</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:16px; line-height:22px; ">11:00</span>
+        </mj-text>
+        <mj-text align="left" font-size="14px" line-height="17px" padding-top="8px" padding-left="24px" padding-right="24px">
+          <span style="color:#B5C6D2" >Место</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:16px; line-height:22px; ">г. Екатеринург, ул. Соболева, д. 29</span>
+        </mj-text>
+        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" padding-top="8px"  padding-left="24px" padding-right="24px">
+          <span style="color:#B5C6D2" >Дата заключения</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:16px; line-height:22px;">11.04.2020 </span>
+        </mj-text>
+         <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" padding-top="8px"  padding-left="24px" padding-right="24px">
+          <span style="color:#B5C6D2" >Врач</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:16px; line-height:22px;">Иванов Петр Сергеевич </span>
+        </mj-text>
+        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" padding-top="16px"  padding-left="24px" padding-right="24px">
+          <span style="color:#B5C6D2" >Заключение врача
+        </mj-text>
+          <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" padding-top="8px"  padding-left="24px" padding-right="24px">
+          КТ-признаки одиночного небольшого очага в паренхиме SIX правого легкого. Тромбоэмболия субсегментарных ветвей SI-II, SIX легочных артерий слева.
+        </mj-text>
+          <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" padding-top="16px"  padding-left="24px" padding-right="24px">
+          <span style="color:#B5C6D2" >Рекомендация
+        </mj-text>
+            <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" padding-top="8px"  padding-left="24px" padding-right="24px" padding-bottom="16px">
+          Консультация онколога
+        </mj-text>
+     </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+            <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" color="#3E3E3E" padding-top="26px">
+         Распечатайте и возьмите с собой на скрининг анкету или назовите в регистратуре ее номер.
+        </mj-text>
+      </mj-column>
+      </mj-section>
+    <mj-section padding-bottom="80px">
+       <mj-column padding-top="44px">
+       <mj-button background-color="#FFFFFF"
+                  border="2px solid #FF4F4F"
+                  color="#3E3E3E">
+         Скачать результаты PDF
+      </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-include path="../base/footer.mjml" />
+
+  </mj-body>
+
+</mjml>

@@ -1,0 +1,39 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-section padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" />
+      <mj-column padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" /> 
+      <mj-text padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" letter-spacing="0.2px"/>
+      <mj-social padding-top="0" padding-left="0" padding-bottom="0" padding-right="0"/>
+      <mj-button width="254px" height="44px" font-family="Inter" font-style="normal" font-weight="500" font-size="18px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+    <mj-include path="../base/header_adv.mjml" />
+    <mj-section>
+      <mj-column>
+        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" padding-top="15px">
+          Здравствуйте!
+       </mj-text>
+       <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="24px" color="#3E3E3E" padding-top="24px">
+          Спешим вам сообщить о новой программе скрининга, которая будет запущена с 10.08.2020
+        </mj-text>
+              <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="24px" color="#3E3E3E" padding-top="16px">
+         Вы можете заполнить анкету группы риска уже сейчас! Для этого нажмите на кнопку ниже.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="80px" padding-top="44px">
+      <mj-column>
+      <mj-button background-color="#FF4F4F">			
+        Заполнить анкету
+      </mj-button>
+      </mj-column>
+
+    </mj-section>
+    <mj-include path="../base/footer.mjml" />
+
+  </mj-body>
+
+</mjml>

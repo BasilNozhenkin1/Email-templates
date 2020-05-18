@@ -15,37 +15,30 @@
       
       <mj-column>
         <mj-text align="center" font-size="32px" line-height="39px" color="#094068">
-          Ваша запись
+          Результаты скрининга
         </mj-text>
            <mj-text align="left" font-size="14px" line-height="17px" padding-top="40px">
           Здравствуйте!
        </mj-text>
        <mj-text align="left"  font-size="14px" line-height="17px" color="#3E3E3E" padding-top="24px">
-          Вы записаны на скрининг рака легких:
+         Результаты скрининга готовы:
         </mj-text>
       </mj-column>
     </mj-section>
+    <mj-section background-color="#FAFCFD">
+      <mj-column padding-top="16px">
+         <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" padding-top="16px" padding-bottom="16px" padding-left="24px" padding-right="24px">
+          <span style="color:#B5C6D2" >Дата исследования</span>&nbsp;&nbsp;&nbsp;<span style="font-size:16px; line-height:22px;">09.04.2020 </span>
+        </mj-text>
+        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" padding-top="8px" padding-left="24px" padding-right="24px">
+          <span style="color:#B5C6D2" >Время</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:16px; line-height:22px; ">11:00</span>
+        </mj-text>
+        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" padding-top="8px" padding-left="24px" padding-right="24px">
+          <span style="color:#B5C6D2" >Место</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size:16px; line-height:22px; ">г. Екатеринург, ул. Соболева, д. 29</span>
+        </mj-text>
+     </mj-column>
+    </mj-section>
     <mj-section>
-      <mj-column>
-        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="12px" line-height="17px" padding-top="16px">
-         <span style="color:#B5C6D2" >Дата:</span>&nbsp;&nbsp;&nbsp;<span style="font-size:16px; line-height:22px; font-weight: bold">09.04.2020 </span>
-       </mj-text>
-    </mj-section>
-      <mj-section>
-      <mj-column>
-        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="12px" line-height="24px" padding-top="8px">
-         <span style="color:#B5C6D2" >Время:</span>&nbsp;<span style="font-size:16px; line-height:22px; font-weight: bold">11:00</span>
-       </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="12px" line-height="24px" padding-top="8px">
-         <span style="color:#B5C6D2" >Адрес:</span>&nbsp;&nbsp;<span style="font-size:16px; line-height:22px; font-weight: bold">г. Екатеринург, ул. Соболева, д. 29</span>
-       </mj-text>
-      </mj-column>
-    </mj-section>
-          <mj-section>
       <mj-column>
             <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" color="#3E3E3E" padding-top="26px">
          Распечатайте и возьмите с собой на скрининг анкету или назовите в регистратуре ее номер.
@@ -57,7 +50,7 @@
        <mj-button background-color="#FFFFFF"
                   border="2px solid #FF4F4F"
                   color="#3E3E3E">
-         Скачать анкету PDF
+         Скачать результаты PDF
       </mj-button>
       </mj-column>
     </mj-section>

@@ -1,0 +1,51 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-section padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" />
+      <mj-column padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" /> 
+      <mj-text padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" letter-spacing="0.2px"/>
+      <mj-social padding-top="0" padding-left="0" padding-bottom="0" padding-right="0"/>
+      <mj-button width="254px" height="44px" font-family="Inter" font-style="normal" font-weight="500" font-size="18px" />
+    </mj-attributes>
+  </mj-head>
+
+  <mj-body>
+    <mj-include path="../base/header.mjml" />
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="32px" line-height="39px" color="#094068">
+           Восстановление доступа
+        </mj-text>
+        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" padding-top="40px">
+          Здравствуйте!
+       </mj-text>
+       <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" color="#3E3E3E" padding-top="24px">
+          Вы получили это письмо, так как был направлен запрос на смену пароля от аккаунта <b>ivanovivan@mail.ru</b> на портале Скрининг рака легких
+        </mj-text>
+        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" color="#3E3E3E" padding-top="16px">
+          Если вы не отправляли запрос на смену пароля, то проигнорируйте это письмо.
+        </mj-text>
+        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" color="#3E3E3E" padding-top="16px">
+          Для восстановления пароля нажмите на кнопку ниже.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="36px">
+      <mj-column>
+      <mj-button background-color="#FF4F4F">			
+        Сменить пароль
+      </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="80px">
+      <mj-column>
+        <mj-text font-family="Tahoma" font-style="normal" font-weight="normal" font-size="14px" line-height="17px" color="#3E3E3E" padding-top="29px" align="center">
+          Или пройдите по ссылке <a style="color:#00C0C8"  href="https://ru.sbrosparolya.com/auth">https://ru.sbrosparolya.com/auth</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-include path="../base/footer.mjml" />
+
+  </mj-body>
+
+</mjml>

@@ -5,7 +5,7 @@
       <mj-column padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" /> 
       <mj-text padding-top="0" padding-left="0" padding-bottom="0" padding-right="0" letter-spacing="0.2px"/>
       <mj-social padding-top="0" padding-left="0" padding-bottom="0" padding-right="0"/>
-      <mj-button width="260px" height="44px" font-family="Tahoma" font-style="normal" font-weight="500" font-size="18px" />
+      <mj-button width="254px" height="44px" font-family="Inter" font-style="normal" font-weight="500" font-size="18px" />
     </mj-attributes>
   </mj-head>
 
@@ -40,7 +40,7 @@
        <mj-button background-color="#FFFFFF"
                   border="2px solid #FF4F4F"
                   color="#3E3E3E"
-                  width="220px"
+                  width="216px"
                   >
          Скачать анкету PDF
       </mj-button>

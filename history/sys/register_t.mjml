@@ -23,25 +23,14 @@
     </mj-section>
     <mj-section>
       <mj-column>
-        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="12px" line-height="17px" padding-top="24px" color="#B5C6D2">
-         Логин:
+        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="12px" line-height="17px" padding-top="16px">
+         <span style="color:#B5C6D2" >Логин:</span>&nbsp;&nbsp;&nbsp;<span style="font-size:16px; line-height:22px; font-weight: bold">ivanovivan@mail.ru</span>
        </mj-text>
-      </mj-column>
-       <mj-column>
-      <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="bold" font-size="16px" line-height="22px" padding-top="16px">
-         ivanovivan@mail.ru
-       </mj-text>
-      </mj-column>
     </mj-section>
-        <mj-section>
+      <mj-section>
       <mj-column>
-        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="12px" line-height="24px" padding-top="8px"  color="#B5C6D2">
-         Пароль:
-       </mj-text>
-      </mj-column>
-       <mj-column>
-      <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="bold" font-size="16px" line-height="22px" padding-top="8px">
-         123456789
+        <mj-text align="left" font-family="Tahoma" font-style="normal" font-weight="normal" font-size="12px" line-height="24px" padding-top="8px">
+         <span style="color:#B5C6D2" >Пароль:</span>&nbsp;<span style="font-size:16px; line-height:22px; font-weight: bold">123456789</span>
        </mj-text>
       </mj-column>
     </mj-section>
