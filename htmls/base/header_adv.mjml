@@ -1,4 +1,4 @@
-<mj-section>
+<mj-section padding-left="20px" padding-right="20px">
   <mj-column padding-top="30px">
     <mj-text font-family="Inter" font-style="normal" font-weight="bold" font-size="18px" line-height="22px" color="#005491"> Скрининг<br> рака легких </mj-text>
   </mj-column>
